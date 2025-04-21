@@ -25,7 +25,7 @@ else
 fi
 export LD_LIBRARY_PATH
 
-HD_PWD='C:/Users/Asus/Desktop/Project/hw/uart/uart.runs/synth_1'
+HD_PWD='C:/Users/LENOVO/project_startracker/hw/uart02/uart.runs/synth_1'
 cd "$HD_PWD"
 
 HD_LOG=runme.log
