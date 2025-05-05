@@ -1,0 +1,10 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+C:/Users/LENOVO/uart_wrapper03/uart_wrapper03.gen/sources_1/ip/ila_0/sim/ila_0.v,1746458537,verilog,,C:/Users/LENOVO/uart_wrapper03/uart_wrapper03.srcs/sources_1/new/heartbeat.v,,ila_0,,,,,,,,
+C:/Users/LENOVO/uart_wrapper03/uart_wrapper03.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+C:/Users/LENOVO/uart_wrapper03/uart_wrapper03.srcs/sim_1/new/uart_wrapper_tb.v,1746449380,verilog,,,,uart_wrapper_tb,,,,,,,,
+C:/Users/LENOVO/uart_wrapper03/uart_wrapper03.srcs/sources_1/new/heartbeat.v,1746456738,verilog,,C:/Users/LENOVO/uart_wrapper03/uart_wrapper03.srcs/sources_1/new/uart.v,,heartbeat,,,,,,,,
+C:/Users/LENOVO/uart_wrapper03/uart_wrapper03.srcs/sources_1/new/uart.v,1746453282,verilog,,C:/Users/LENOVO/uart_wrapper03/uart_wrapper03.srcs/sources_1/new/uart_wrapper.v,,uart,,,,,,,,
+C:/Users/LENOVO/uart_wrapper03/uart_wrapper03.srcs/sources_1/new/uart_wrapper.v,1746458729,verilog,,C:/Users/LENOVO/uart_wrapper03/uart_wrapper03.srcs/sim_1/new/uart_wrapper_tb.v,,uart_wrapper,,,,,,,,

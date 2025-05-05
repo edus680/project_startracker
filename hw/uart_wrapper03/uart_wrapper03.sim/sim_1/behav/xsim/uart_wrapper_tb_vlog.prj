@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../uart_wrapper03.gen/sources_1/ip/ila_0/sim/ila_0.v" \
+"../../../../uart_wrapper03.srcs/sources_1/new/heartbeat.v" \
+"../../../../uart_wrapper03.srcs/sources_1/new/uart.v" \
+"../../../../uart_wrapper03.srcs/sources_1/new/uart_wrapper.v" \
+"../../../../uart_wrapper03.srcs/sim_1/new/uart_wrapper_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
